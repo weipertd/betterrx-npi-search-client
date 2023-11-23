@@ -6,11 +6,13 @@
 
 <h1 style="width: 100%; text-align: center;"> BetterRX NPI Search Client</h1>
 
-<p style="width: 100%; text-align: center;">This is the front-end client for the BetterRX NPI Search API and the BetterRX coding test for Daniel Weipert.</p>
+<p style="width: 100%; text-align: center;">
+    This is the front-end client for the BetterRX NPI Search API and the BetterRX coding test for Daniel Weipert. It is
+    a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+</p>
 
 <p style="width: 100%; text-align: center;">Directions for using this NextJS-based (ReactJS) project and any other need-to-know information follows.</p>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
